@@ -2,7 +2,7 @@
 
 
 
-Overview
+Overview:-
 
 This is a Django project called 3D Scene using Django developed to involve creating a simple 3D environment with some objects and basic interactions. It includes features such as Three.js for frontend development and Django for the backend development.
 
@@ -22,15 +22,15 @@ To run this project locally, follow these steps:
    
 git clone <repository_url>
 
-3. Navigate to the project directory:
+2. Navigate to the project directory:
    
 cd project_name/
 
-5. Create a virtual environment (optional but recommended):
+3. Create a virtual environment (optional but recommended):
    
 python -m venv venv
 
-7. Activate the virtual environment:
+4. Activate the virtual environment:
    
 On Windows:
 venv\Scripts\activate
@@ -38,20 +38,20 @@ venv\Scripts\activate
 On macOS and Linux:
 source venv/bin/activate
 
-9. Install dependencies:
+5. Install dependencies:
     
 pip install -r requirements.txt
 
-11. Set up environment variables:
+6. Set up environment variables:
     
 Create a .env file in the root directory of the project.
 Define the necessary environment variables such as SECRET_KEY, DATABASE_URL, etc.
 
-13. Apply migrations:
+7. Apply migrations:
     
 python manage.py migrate
 
-15. Run the development server:
+8. Run the development server:
     
 python manage.py runserver
 
@@ -61,17 +61,18 @@ Access the application at http://127.0.0.1:8003/.
 
 
 
-Deployment
+Deployment:-
 This project can be deployed using Heroku or any other PaaS provider such as AWS. Follow the deployment instructions provided in the documentation.
 
 
 
 
 
-Directory Structure
+Directory Structure:-
 
 
 project_name/
+
 │
 
 ├── app_name/
@@ -129,6 +130,6 @@ project_name/
 
 
 
-Contributing
+Contributing:-
 
 Contributions are welcome! Please feel free to submit a pull request or open an issue for any bugs, feature requests, or suggestions.
