@@ -4,7 +4,7 @@
 
 Overview:-
 
-This is a Django project called 3D Scene using Django developed to involve creating a simple 3D environment with some objects and basic interactions. It includes features such as Three.js for frontend development and Django for the backend development.
+This is a Django project called 3D Scene using Django developed to involve creating a simple 3D environment with some objects and basic interactions. It includes features such as HTML, Three.js for frontend development and Django, Python for backend development along with other libraries and tools.
 
 
 
