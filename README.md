@@ -8,9 +8,12 @@ This is a Django project called 3D Scene using Django developed to involve creat
 
 
 
+
+
 Installation:-
 
 To run this project locally, follow these steps:
+
 
 1. Clone the repository to your local machine:
    
@@ -53,15 +56,19 @@ Access the application at http://127.0.0.1:8003/.
 
 
 
+
+
 Deployment
 This project can be deployed using Heroku or any other PaaS provider such as AWS. Follow the deployment instructions provided in the documentation.
 
 
 
+
+
 Directory Structure
 
-project_name/
 
+project_name/
 │
 
 ├── app_name/
@@ -113,6 +120,8 @@ project_name/
 ├── requirements.txt
 
 └── README.md
+
+
 
 
 
